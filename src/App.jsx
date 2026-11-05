@@ -7,7 +7,6 @@ import { ModKomment } from './pages/ModKomment';
 import { EgyPoszt } from './pages/EgyPoszt';
 import './App.css'
 
-
 export const App = () => {
 
   return (
